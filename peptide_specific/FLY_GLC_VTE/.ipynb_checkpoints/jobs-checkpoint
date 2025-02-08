@@ -1,0 +1,12 @@
+python3 ./CNN_model_train_multiclass_three_min_RBM.py 200 &
+python3 ./CNN_model_train_multiclass_three_min_RBM.py 300 &
+wait
+python3 ./CNN_model_train_multiclass_three_min_RBM.py 400 &
+python3 ./CNN_model_train_multiclass_three_min_RBM.py 500 &
+python3 ./CNN_model_train_multiclass_three_min_RBM.py 600 &
+wait
+python3 ./CNN_model_train_multiclass_three_min_RBM.py 700 &
+python3 ./CNN_model_train_multiclass_three_min_RBM.py 800 &
+python3 ./CNN_model_train_multiclass_three_min_RBM.py 900 &
+wait
+python3 ./CNN_model_train_multiclass_three_min_RBM.py 1000 &

@@ -1,0 +1,19 @@
+[project]
+name = "restoringTCR"
+version = "0.1.0"
+description = ""
+authors = "Emanuele Loffredo, Mauro Pastore"
+requires-python = ">=3.11.0, < 3.12"
+dependencies = [
+	"torch == 2.0.0",
+	"transformers == 4.32.1",
+	"numpy == 1.24.4",
+	"scipy == 1.11.3",
+	"scikit-learn == 1.3.2",
+	"pandas = 2.1.2"
+]
+
+[tool.uv]
+dev-dependencies = [
+	"ruff >=0.6"
+]

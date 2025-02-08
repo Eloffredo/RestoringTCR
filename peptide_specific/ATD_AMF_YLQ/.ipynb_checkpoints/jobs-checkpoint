@@ -1,0 +1,32 @@
+#python3 ./CNN_model_train_multiclass_three_min.py 200 &
+#python3 ./CNN_model_train_multiclass_three_min.py 225 &
+#python3 ./CNN_model_train_multiclass_three_min.py 250 &
+#wait
+#python3 ./CNN_model_train_multiclass_three_min.py 275 &
+#python3 ./CNN_model_train_multiclass_three_min.py 300 &
+#python3 ./CNN_model_train_multiclass_three_min.py 325 &
+#wait
+#python3 ./CNN_model_train_multiclass_three_min.py 350 &
+#python3 ./CNN_model_train_multiclass_three_min.py 375 &
+#python3 ./CNN_model_train_multiclass_three_min.py 400 &
+#wait
+#python3 ./CNN_model_train_multiclass_three_min.py 425 &
+#python3 ./CNN_model_train_multiclass_three_min.py 450 &
+#python3 ./CNN_model_train_multiclass_three_min.py 475 &
+#wait
+#python3 ./CNN_model_train_multiclass_three_min.py 500 &
+#python3 ./CNN_model_train_multiclass_three_min.py 525 &
+#python3 ./CNN_model_train_multiclass_three_min.py 550 &
+#wait
+#python3 ./CNN_model_train_multiclass_three_min.py 575 &
+#python3 ./CNN_model_train_multiclass_three_min.py 600 &
+python3 ./CNN_model_train_multiclass_three_min.py 625 &
+python3 ./CNN_model_train_multiclass_three_min.py 650 &
+python3 ./CNN_model_train_multiclass_three_min.py 675 &
+wait
+python3 ./CNN_model_train_multiclass_three_min.py 700 &
+python3 ./CNN_model_train_multiclass_three_min.py 725 &
+python3 ./CNN_model_train_multiclass_three_min.py 750 &
+wait
+python3 ./CNN_model_train_multiclass_three_min.py 775 &
+python3 ./CNN_model_train_multiclass_three_min.py 800 &

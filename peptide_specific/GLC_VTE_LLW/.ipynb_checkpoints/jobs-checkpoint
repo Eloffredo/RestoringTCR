@@ -1,0 +1,2 @@
+python3 ./CNN_model_train_multiclass_three_min_RBM.py 601 &
+python3 ./CNN_model_train_multiclass_three_min_RBM.py 1000 &
